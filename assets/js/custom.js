@@ -55,8 +55,7 @@
 	  },
 
 	  init: function(el) {
-	    const _this = this;
-
+	    const _this = this
 	    // Override default settings with classes
 	    let is_first_expanded = _this.settings.first_expanded;
 	    if (el.classList.contains("is-first-expanded")) is_first_expanded = true;
@@ -221,6 +220,7 @@
 
 	// Page loading animation
 	$(window).on('load', function() {
+		
 		if($('.cover').length){
 			$('.cover').parallax({
 				imageSrc: $('.cover').data('image'),
