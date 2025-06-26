@@ -60,11 +60,6 @@ edu-meeting/
 3. Open the `index.html` file in your preferred web browser.
 4. The website should load with full functionality and styling.
 
-## Contact Information
-- Phone Number: 123-456-7890
-- Email Address: Watermenon@gmail.edu
-- Street Address: Mumbai - Nahur, 4000-42, India
-- Website URL: www.university.edu
 
 ---
 
